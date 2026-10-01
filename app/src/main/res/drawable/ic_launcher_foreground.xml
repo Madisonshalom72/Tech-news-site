@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Tech Bolt / Media Broadcast Symbol -->
+        <!-- Center lightning bolt with modern angled geometry -->
+        <path
+            android:pathData="M57,28 L37,56 L51,56 L47,80 L71,50 L57,50 Z"
+            android:fillColor="#FFFFFF" />
+        <!-- Broadcast wave right -->
+        <path
+            android:pathData="M66,38 C72,42 75,48 75,54 C75,60 72,66 66,70"
+            android:strokeColor="#64DD91"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M73,32 C82,38 86,46 86,54 C86,62 82,70 73,76"
+            android:strokeColor="#82FAAB"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <!-- Broadcast wave left -->
+        <path
+            android:pathData="M39,40 C34,44 31,49 31,54 C31,59 34,64 39,68"
+            android:strokeColor="#64DD91"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+    </group>
+</vector>

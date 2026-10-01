@@ -1,0 +1,6 @@
+{
+  "name": "TechNews",
+  "description": "Tech Streams, Keynotes, and Podcasts platform with live broadcasts, product demos, audio player, and bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
